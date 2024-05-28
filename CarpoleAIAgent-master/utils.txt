@@ -1,0 +1,2 @@
+gym.openai.com/#envs - more environments
+https://keras-rl.readthedocs.io/en/latest/ - more rl agents
