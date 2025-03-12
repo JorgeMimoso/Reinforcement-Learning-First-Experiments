@@ -5,8 +5,7 @@
 #pip install keras-rl2
 #pip install pygame
 #pip install tensorflow==2.15
-#conda install swig 
-#conda install -c conda-forge box2d-py 
+#pip install Box2D
 
 import gym
 
